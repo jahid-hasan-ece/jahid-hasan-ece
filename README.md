@@ -1,8 +1,8 @@
-# MD.Jahid Hasan
+# MD. Jahid Hasan
 
 ### Hi there 👋
 
-I am MD.Jahid Hasan. I am interested in **Machine Learning** and **Computer networking**. I always try to learn somethimg new and keep myself updated with technological konwledge.
+I am MD. Jahid Hasan. I am interested in **Machine Learning** and **Computer networking**. I always try to learn somethimg new and keep myself updated with technological konwledge.
 
 - 🔭 I’m currently working on a data analyzing project.
 - 🌱 I’m currently learning ML and Computer Networking.
