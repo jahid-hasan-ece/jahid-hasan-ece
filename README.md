@@ -13,4 +13,4 @@ I am MD.Jahid Hasan. I am interested in **Machine Learning** and **Computer netw
 - 😄 Pronouns: as your wish!
 - ⚡ Fun fact: :confused:
 
-[![LinkedIn](https://github.com/jahid-hasan-ece/jahid-hasan-ece/blob/main/Webp.net-resizeimage.png)](https://www.linkedin.com/in/md-jahid-hasan-aa47aa1b5/) [![Kaggle](kaggle.png)](https://www.kaggle.com/jahid17)
+[![LinkedIn](https://github.com/jahid-hasan-ece/jahid-hasan-ece/blob/main/Webp.net-resizeimage.png)](https://www.linkedin.com/in/md-jahid-hasan-aa47aa1b5/)   [![Kaggle](kaggle.png)](https://www.kaggle.com/jahid17)
