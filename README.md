@@ -13,3 +13,4 @@ I am MD.Jahid Hasan. I am interested in **Machine Learning** and **Computer netw
 - 😄 Pronouns: as your wish!
 - ⚡ Fun fact: :confused:
 
+[!LinkedIn](www.linkedin.com/in/md-jahid-hasan-aa47aa1b5)
